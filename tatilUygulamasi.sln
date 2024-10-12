@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tatilUygulamasi", "tatilUygulamasi\tatilUygulamasi.csproj", "{1261CE03-0FBE-4E72-81EF-898C7946B305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1261CE03-0FBE-4E72-81EF-898C7946B305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1261CE03-0FBE-4E72-81EF-898C7946B305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1261CE03-0FBE-4E72-81EF-898C7946B305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1261CE03-0FBE-4E72-81EF-898C7946B305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315171DD-77B8-4E55-A354-B8F7485FC38E}
+	EndGlobalSection
+EndGlobal
